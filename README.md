@@ -4,7 +4,7 @@ This Solidity program is designed to handle donations with an implementation of 
 
 ## Description
 
-This smart contract allows users to deposit, donate, and request refunds within set parameters to ensure transactions do not exceed preset limits. It employs Solidity's error-handling capabilities to maintain the integrity and constraints of the donations system. This contract serves as an excellent example for developers looking to understand transaction management and error handling in blockchain applications.
+This smart contract allows users to deposit, donate, and request refunds within set parameters to ensure transactions do not exceed preset limits. It employs Solidity's error-handling capabilities to maintain the integrity and constraints of the donations system. This contract serves as an example to understand transaction management and error handling in blockchain applications.
 
 ## Getting Started
 
